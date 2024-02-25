@@ -8,7 +8,7 @@ class BoardingPass:
         '''The function check the booking status and other related information to verify booking.'''
         pass
 
-    def issue_boarding_pass(self):
+    def generate_boarding_pass(self):
         '''The function makes the boarding pass with all details'''
         pass
 
