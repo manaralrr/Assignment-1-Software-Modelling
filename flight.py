@@ -9,3 +9,11 @@ class Flight:
         self.arrival_time = arrival_time
         self.gate = gate
         self.dept_date = dept_date
+
+    def update_status(self):
+        '''The function regularly check the flight status and updates the pessangers about the same.'''
+        pass
+
+    def check_boarding_time(self):
+        '''The function get a recond of the boarding time of the flight.'''
+        pass
